@@ -2,17 +2,14 @@
 const contacts = [
   {
     title: "Location",
-    icon: "📍",
     text: "Kigali, Rwanda",
   },
   {
     title: "Phone",
-    icon: "📞",
     text: "+250 788 000 000",
   },
   {
     title: "Email",
-    icon: "✉️",
     text: "info@visitrwanda.com",
   },
 ]
@@ -39,7 +36,7 @@ const contacts = [
           Explore Rwanda With Us
         </p>
       </div>
-
+      
       <!-- Main Grid -->
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-10">
         
