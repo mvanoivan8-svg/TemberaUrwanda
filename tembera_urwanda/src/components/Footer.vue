@@ -1,11 +1,11 @@
 <template>
-  <footer class="bg-green-800 text-white px-8 py-10 mt-10">
+  <footer class="bg-green-800 text-white px-8 py-10 ">
 
 <div class="flex flex-wrap justify-between gap-8 ">
   <!--this is about of footer-->
   <div>
-  <h3 class="text-yellow-300 font-bold text-lg mb-3 ">TEMBERA URWANDA</h3>
-  <P class="text-sm text-green-200">Discover the beauty of the land of thousand hills</P>
+  <h3 class="text-yellow-300 font-bold text-2xl mb-3 ">TEMBERA URWANDA</h3>
+  <P class="text-lg text-green-200">Discover the beauty of the land of thousand hills</P>
 </div>
 <!--quicklinks  -->
 <div>

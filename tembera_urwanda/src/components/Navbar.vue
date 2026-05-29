@@ -26,6 +26,13 @@
                 </ul>
                 </li>
                 <li><a href="/contacts" class="hover:text-yellow-300">Contacts</a></li>
+                <li class="relative group">
+                <a href="#" class="hover:text-yellow-300">Language<span> v</span></a>
+                <ul class="invisible group-hover:visible opacity-0  group-hover:opacity-100 absolute bg-white text-green-900 rounded shadow w-48 top-full left-0 z-50">
+                <li><a href="#" class="block px-4 py-2  hover:bg-green-300 text-green-900">English</a></li>
+                <li><a href="#" class="block px-4 py-2  hover:bg-green-300 text-green-900">Kinyarwanda</a></li>
+                </ul>
+                </li>
             </ul>
     
     </nav>
