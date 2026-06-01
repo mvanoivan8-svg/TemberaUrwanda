@@ -11,18 +11,18 @@
                 <li class="relative group">
                 <a href="#" class="hover:text-yellow-300">Gallery<span> v</span></a>
                 <ul class="invisible group-hover:visible opacity-0  group-hover:opacity-100 absolute bg-white text-green-900 rounded shadow w-48 top-full left-0 z-50">
-                <li><a href="#" class="block px-4 py-2  hover:bg-green-300 text-green-900">photos</a></li>
-                <li><a href="#" class="block px-4 py-2  hover:bg-green-300 text-green-900">videos</a></li>
+                <li><a href="/Photo" class="block px-4 py-2  hover:bg-green-300 text-green-900">photos</a></li>
+                <li><a href="/Videos" class="block px-4 py-2  hover:bg-green-300 text-green-900">videos</a></li>
                 </ul>
                 </li>
                 <li class="relative group">
                 <a href="#" class="hover:text-yellow-300">Destination<span> v</span></a>
                 <ul class="invisible group-hover:visible opacity-0  group-hover:opacity-100 absolute bg-white text-green-900 rounded shadow w-48 top-full left-0 z-50">
-                <li><a href="#" class="block px-4 py-2  hover:bg-green-300 text-green-900">Northern Province</a></li>
-                <li><a href="#" class="block px-4 py-2  hover:bg-green-300 text-green-900">Southern Province</a></li>
-                <li><a href="#" class="block px-4 py-2  hover:bg-green-300 text-green-900">Eastern Province</a></li>
-                <li><a href="#" class="block px-4 py-2  hover:bg-green-300 text-green-900">Western Province</a></li>
-                <li><a href="#" class="block px-4 py-2  hover:bg-green-300 text-green-900">Kigali</a></li>
+                <li><a href="/Northern" class="block px-4 py-2  hover:bg-green-300 text-green-900">Northern Province</a></li>
+                <li><a href="Southern" class="block px-4 py-2  hover:bg-green-300 text-green-900">Southern Province</a></li>
+                <li><a href="/Eastern" class="block px-4 py-2  hover:bg-green-300 text-green-900">Eastern Province</a></li>
+                <li><a href="/Western" class="block px-4 py-2  hover:bg-green-300 text-green-900">Western Province</a></li>
+                <li><a href="/Kigali" class="block px-4 py-2  hover:bg-green-300 text-green-900">Kigali</a></li>
                 </ul>
                 </li>
                 <li><a href="/contacts" class="hover:text-yellow-300">Contacts</a></li>
