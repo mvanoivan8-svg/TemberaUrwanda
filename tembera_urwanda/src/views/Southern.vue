@@ -49,7 +49,7 @@
 
       <!-- Nyamirambo -->
       <div class="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl transition">
-        <img src="/src/assets/6.png" class="h-48 w-full object-cover" />
+        <img src="/src/assets/13.png" class="h-48 w-full object-cover" />
         <div class="p-6">
           <h2 class="text-xl font-bold text-gray-800">Nyamirambo District</h2>
           <p class="text-gray-600 mt-2">
