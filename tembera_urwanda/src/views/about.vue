@@ -1,9 +1,9 @@
 <script setup>
-import img4 from '../assets/4.jpg'
-import img6 from '../assets/6.png'
-import img7 from '../assets/7.jpg'
-import img13 from '../assets/13.png'
-import img12 from '../assets/12.jpg'
+import img4 from '/assets/images/4.jpg'
+import img6 from '/assets/images/6.png'
+import img7 from '/assets/images/7.jpg'
+import img13 from '/assets/images/13.png'
+import img12 from '/assets/images/12.jpg'
 </script>
 
 <template>

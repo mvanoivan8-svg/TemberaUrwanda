@@ -1,7 +1,7 @@
 <template>
   <section
     class="relative min-h-screen bg-cover bg-center flex items-center justify-center overflow-hidden"
-    style="background-image: url('/images/6.png')"
+    style="background-image: url('assets/images/6.png')"
   >
     <div class="absolute inset-0 bg-black/60"></div>
 
@@ -29,10 +29,10 @@
       </div>
 
       <div class="flex">
-        <img src="/images/12.jpg" class="w-70 h-80 mt-8 mb-8" />
-        <img src="/images/7.jpg" class="w-70 h-80 mt-8 mb-8 ml-3" />
-        <img src="/images/6.png" class="w-70 h-80 mt-8 mb-8 ml-3" />
-        <img src="/images/4.jpg" class="w-70 h-80 mt-8 mb-8 ml-3" />
+        <img src="/assets/images/12.jpg" class="w-70 h-80 mt-8 mb-8" />
+        <img src="/assets/images/7.jpg" class="w-70 h-80 mt-8 mb-8 ml-3" />
+        <img src="/assets/images/6.png" class="w-70 h-80 mt-8 mb-8 ml-3" />
+        <img src="/assets/images/4.jpg" class="w-70 h-80 mt-8 mb-8 ml-3" />
       </div>
     </div>
   </section>
