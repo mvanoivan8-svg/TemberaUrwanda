@@ -18,10 +18,10 @@ const contacts = [
 <template>
   <section
     class="min-h-screen bg-cover bg-center relative flex items-center justify-center py-20 px-6"
-    style="background-image: url('/src/assets/contact-bg.jpg');"
+    style="background-image: url('/src/assets/4.jpg');"
   >
     <!-- Overlay -->
-    <div class="absolute inset-0 bg-black/70"></div>
+    <div class="absolute inset-0 bg-black/40"></div>
 
     <!-- Content -->
     <div class="relative z-10 w-full max-w-7xl">
