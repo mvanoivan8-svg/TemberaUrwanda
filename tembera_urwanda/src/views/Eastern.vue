@@ -16,7 +16,7 @@
 
       <!-- Genocide Memorial -->
       <div class="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl transition">
-        <img src="/src/assets/7.jpg" class="h-48 w-full object-cover" />
+        <img src="/images/7.jpg" class="h-48 w-full object-cover" />
         <div class="p-6">
           <h2 class="text-xl font-bold text-gray-800">Kigali Genocide Memorial</h2>
           <p class="text-gray-600 mt-2">
@@ -27,7 +27,7 @@
 
       <!-- Kigali City Views -->
       <div class="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl transition">
-        <img src="/src/assets/6.png" class="h-48 w-full object-cover" />
+        <img src="/images/6.png" class="h-48 w-full object-cover" />
         <div class="p-6">
           <h2 class="text-xl font-bold text-gray-800">Kigali Hills & Views</h2>
           <p class="text-gray-600 mt-2">
@@ -38,7 +38,7 @@
 
       <!-- Kimironko Market -->
       <div class="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl transition">
-        <img src="/src/assets/12.jpg" class="h-48 w-full object-cover" />
+        <img src="/images/12.jpg" class="h-48 w-full object-cover" />
         <div class="p-6">
           <h2 class="text-xl font-bold text-gray-800">Kimironko Market</h2>
           <p class="text-gray-600 mt-2">
@@ -49,7 +49,7 @@
 
       <!-- Nyamirambo -->
       <div class="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl transition">
-        <img src="/src/assets/6.png" class="h-48 w-full object-cover" />
+        <img src="/images/6.png" class="h-48 w-full object-cover" />
         <div class="p-6">
           <h2 class="text-xl font-bold text-gray-800">Nyamirambo District</h2>
           <p class="text-gray-600 mt-2">
@@ -58,9 +58,9 @@
         </div>
       </div>
 
-      <!-- Kigali Art Scene -->
+      <!-- Art -->
       <div class="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl transition">
-        <img src="/src/assets/4.jpg" class="h-48 w-full object-cover" />
+        <img src="/images/4.jpg" class="h-48 w-full object-cover" />
         <div class="p-6">
           <h2 class="text-xl font-bold text-gray-800">Inema Arts Center</h2>
           <p class="text-gray-600 mt-2">
@@ -69,9 +69,9 @@
         </div>
       </div>
 
-      <!-- Food & Cafes -->
+      <!-- Food -->
       <div class="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl transition">
-        <img src="/src/assets/1.jpg" class="h-48 w-full object-cover" />
+        <img src="/images/1.jpg" class="h-48 w-full object-cover" />
         <div class="p-6">
           <h2 class="text-xl font-bold text-gray-800">Kigali Cafés & Food</h2>
           <p class="text-gray-600 mt-2">
@@ -84,7 +84,3 @@
 
   </section>
 </template>
-
-<script setup>
-// No logic needed for now
-</script>

@@ -4,10 +4,10 @@
     <!-- Header -->
     <div class="text-center mb-16">
       <h1 class="text-5xl font-bold text-green-800">
-        Discover Southern
+        Discover Western
       </h1>
       <p class="mt-4 text-gray-600 text-lg max-w-2xl mx-auto">
-        Explore Southern’s beauty — from culture and history to nature, food, and modern city life.
+        Explore K’s beauty — from culture and history to nature, food, and modern city life.
       </p>
     </div>
 
@@ -49,7 +49,7 @@
 
       <!-- Nyamirambo -->
       <div class="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl transition">
-        <img src="/src/assets/13.png" class="h-48 w-full object-cover" />
+        <img src="/src/assets/6.png" class="h-48 w-full object-cover" />
         <div class="p-6">
           <h2 class="text-xl font-bold text-gray-800">Nyamirambo District</h2>
           <p class="text-gray-600 mt-2">

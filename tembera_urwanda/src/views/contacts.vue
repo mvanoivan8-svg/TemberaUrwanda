@@ -3,14 +3,17 @@ const contacts = [
   {
     title: "Location",
     text: "Kigali, Rwanda",
+    icon: "📍",
   },
   {
     title: "Phone",
     text: "+250 788 000 000",
+    icon: "📞",
   },
   {
     title: "Email",
     text: "info@visitrwanda.com",
+    icon: "✉️",
   },
 ]
 </script>
@@ -18,14 +21,14 @@ const contacts = [
 <template>
   <section
     class="min-h-screen bg-cover bg-center relative flex items-center justify-center py-20 px-6"
-    style="background-image: url('/src/assets/4.jpg');"
+    style="background-image: url('/images/4.jpg');"
   >
     <!-- Overlay -->
     <div class="absolute inset-0 bg-black/40"></div>
 
     <!-- Content -->
     <div class="relative z-10 w-full max-w-7xl">
-      
+
       <!-- Title -->
       <div class="text-center mb-16">
         <h1 class="text-5xl md:text-7xl font-extrabold text-white">
@@ -36,10 +39,10 @@ const contacts = [
           Explore Rwanda With Us
         </p>
       </div>
-      
+
       <!-- Main Grid -->
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-10">
-        
+
         <!-- Contact Form -->
         <div
           class="bg-white/10 backdrop-blur-lg border border-white/20 rounded-3xl p-8 shadow-2xl"
@@ -49,7 +52,7 @@ const contacts = [
           </h2>
 
           <form class="space-y-6">
-            <!-- Name -->
+
             <div>
               <label class="text-white block mb-2">Full Name</label>
               <input
@@ -59,7 +62,6 @@ const contacts = [
               />
             </div>
 
-            <!-- Email -->
             <div>
               <label class="text-white block mb-2">Email Address</label>
               <input
@@ -69,7 +71,6 @@ const contacts = [
               />
             </div>
 
-            <!-- Subject -->
             <div>
               <label class="text-white block mb-2">Subject</label>
               <input
@@ -79,7 +80,6 @@ const contacts = [
               />
             </div>
 
-            <!-- Message -->
             <div>
               <label class="text-white block mb-2">Message</label>
               <textarea
@@ -89,9 +89,8 @@ const contacts = [
               ></textarea>
             </div>
 
-            <!-- Button -->
             <button
-              class="w-full bg-green-500 hover:bg-green-600 transition duration-300 text-white font-bold py-4 rounded-xl text-lg shadow-lg"
+              class="w-full bg-green-500 hover:bg-green-600 transition text-white font-bold py-4 rounded-xl text-lg shadow-lg"
             >
               Send Message
             </button>
@@ -100,12 +99,12 @@ const contacts = [
 
         <!-- Contact Info -->
         <div class="flex flex-col gap-8 justify-center">
-          
+
           <!-- Cards -->
           <div
             v-for="contact in contacts"
             :key="contact.title"
-            class="bg-white/10 backdrop-blur-lg border border-white/20 rounded-3xl p-6 flex items-center gap-5 shadow-xl hover:scale-105 transition duration-300"
+            class="bg-white/10 backdrop-blur-lg border border-white/20 rounded-3xl p-6 flex items-center gap-5 shadow-xl hover:scale-105 transition"
           >
             <div
               class="w-16 h-16 bg-green-500 rounded-full flex items-center justify-center text-3xl"
@@ -138,6 +137,7 @@ const contacts = [
               start your adventure now.
             </p>
           </div>
+
         </div>
       </div>
     </div>

@@ -17,17 +17,17 @@ const routes = [{
   component: Home
 }, {
   path: "/about",
-  name:"about",
-  component: about
+  name:"About",
+  component: About
 }, {
   path: "/contacts",
-  name: "contacts",
+  name: "Contacts",
   component: contacts
 },
 {
    path: "/services",
-   name: "services",
-   component: services
+   name: "Services",
+   component: Services
 },
 
 {
