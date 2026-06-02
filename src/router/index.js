@@ -1,7 +1,7 @@
 import { createRouter,createWebHistory } from "vue-router";
 import Home from "../views/Home.vue";
 import About from "../views/about.vue";
-import contacts from "../views/contacts.vue";
+import Contacts from "../views/contacts.vue";
 import Services from "../views/services.vue";
 import Photo from "../views/Photo.vue"; 
 import Videos from "../views/Videos.vue";
@@ -22,7 +22,7 @@ const routes = [{
 }, {
   path: "/contacts",
   name: "Contacts",
-  component: contacts
+  component: Contacts
 },
 {
    path: "/services",

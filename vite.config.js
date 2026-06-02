@@ -5,5 +5,7 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [vue(), tailwindcss()],
-  base: '/tembera_urwanda/',
+  build: {
+    assetsInlineLimit: 0,
+  }
 })
