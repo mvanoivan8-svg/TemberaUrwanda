@@ -1,6 +1,6 @@
 <template>
     <nav class=" bg-green-800 text-white  px-8 py-2 flex item-center">
-        <img src="../assets/image.png" alt="logo" class="w-15 h-11">
+        <div class="text-xl font-bold text-yellow-300">Tembera Urwanda</div>
 
         
             <ul class="flex  gap-8 text-l font-medium w-full ml-100">
@@ -19,7 +19,7 @@
                 <a href="#" class="hover:text-yellow-300">Destination<span> v</span></a>
                 <ul class="invisible group-hover:visible opacity-0  group-hover:opacity-100 absolute bg-white text-green-900 rounded shadow w-48 top-full left-0 z-50">
                 <li><a href="/Northern" class="block px-4 py-2  hover:bg-green-300 text-green-900">Northern Province</a></li>
-                <li><a href="Southern" class="block px-4 py-2  hover:bg-green-300 text-green-900">Southern Province</a></li>
+                <li><a href="/Southern" class="block px-4 py-2  hover:bg-green-300 text-green-900">Southern Province</a></li>
                 <li><a href="/Eastern" class="block px-4 py-2  hover:bg-green-300 text-green-900">Eastern Province</a></li>
                 <li><a href="/Western" class="block px-4 py-2  hover:bg-green-300 text-green-900">Western Province</a></li>
                 <li><a href="/Kigali" class="block px-4 py-2  hover:bg-green-300 text-green-900">Kigali</a></li>

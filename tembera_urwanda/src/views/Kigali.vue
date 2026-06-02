@@ -17,7 +17,7 @@
     <div class="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
 
       <div class="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl transition">
-        <img src="/assets/images/7.jpg" class="h-48 w-full object-cover" />
+        <img src="/7.jpg" class="h-48 w-full object-cover" />
         <div class="p-6">
           <h2 class="text-xl font-bold text-gray-800">Kigali Genocide Memorial</h2>
           <p class="text-gray-600 mt-2">
@@ -27,7 +27,7 @@
       </div>
 
       <div class="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl transition">
-        <img src="/assets/images/6.png" class="h-48 w-full object-cover" />
+        <img src="/6.png" class="h-48 w-full object-cover" />
         <div class="p-6">
           <h2 class="text-xl font-bold text-gray-800">Kigali Hills & Views</h2>
           <p class="text-gray-600 mt-2">
@@ -37,7 +37,7 @@
       </div>
 
       <div class="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl transition">
-        <img src="/assets/images/12.jpg" class="h-48 w-full object-cover" />
+        <img src="/12.jpg" class="h-48 w-full object-cover" />
         <div class="p-6">
           <h2 class="text-xl font-bold text-gray-800">Kimironko Market</h2>
           <p class="text-gray-600 mt-2">
@@ -47,7 +47,7 @@
       </div>
 
       <div class="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl transition">
-        <img src="/assets/images/6.png" class="h-48 w-full object-cover" />
+        <img src="/6.png" class="h-48 w-full object-cover" />
         <div class="p-6">
           <h2 class="text-xl font-bold text-gray-800">Nyamirambo District</h2>
           <p class="text-gray-600 mt-2">
@@ -57,7 +57,7 @@
       </div>
 
       <div class="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl transition">
-        <img src="/assets/images/4.jpg" class="h-48 w-full object-cover" />
+        <img src="/4.jpg" class="h-48 w-full object-cover" />
         <div class="p-6">
           <h2 class="text-xl font-bold text-gray-800">Inema Arts Center</h2>
           <p class="text-gray-600 mt-2">
@@ -67,7 +67,7 @@
       </div>
 
       <div class="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl transition">
-        <img src="/assets/images/1.jpg" class="h-48 w-full object-cover" />
+        <img src="/1.jpg" class="h-48 w-full object-cover" />
         <div class="p-6">
           <h2 class="text-xl font-bold text-gray-800">Kigali Cafés & Food</h2>
           <p class="text-gray-600 mt-2">

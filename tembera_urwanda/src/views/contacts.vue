@@ -21,7 +21,7 @@ const contacts = [
 <template>
   <section
     class="min-h-screen bg-cover bg-center relative flex items-center justify-center py-20 px-6"
-    style="background-image: url('/images/4.jpg');"
+    style="background-image: url('/4.jpg');"
   >
     <!-- Overlay -->
     <div class="absolute inset-0 bg-black/40"></div>
