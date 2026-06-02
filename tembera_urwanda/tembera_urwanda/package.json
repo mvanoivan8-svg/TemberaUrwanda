@@ -1,0 +1,22 @@
+{
+  "name": "tembera-urwanda",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vue": "^3.x",
+    "vue-router": "^4.x"
+  },
+  "devDependencies": {
+    "vite": "^8.x",
+    "@vitejs/plugin-vue": "^6.x",
+    "@tailwindcss/vite": "^4.x"
+  }
+}
